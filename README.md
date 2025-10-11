@@ -199,7 +199,7 @@ python tests/test_models.py
 ## Citation
 
 ```bibtex
-@software{mixture_of_recursions_sandbox_2025,
+@software{mixture_of_recursions_sandbox,
   author = {Rohit Yalavarthy},
   title = {Mixture of Recursions: Sandbox},
   year = {2025},
