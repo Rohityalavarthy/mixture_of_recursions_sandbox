@@ -1,6 +1,6 @@
-# Mixture of Recursions (MoR)
+# Mixture of Recursions (MoR) Sandbox
 
-**A lightweight, production-ready PyTorch implementation of the Mixture of Recursions architecture**
+**A lightweight, production-ready PyTorch implementation of the Mixture of Recursions architecture from NeurIPS 2025.**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
@@ -186,6 +186,13 @@ python -m pytest tests/ -v
 python tests/test_models.py
 
 ```
+
+## Acknowledgments
+
+- Inspired by Google DeepMind & university collaborations (see original paper)
+
+- **Original Paper**: [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation (NeurIPS 2025)](https://arxiv.org/abs/2507.10524)
+- [MoR Blog/Explainer](https://dev.to/kamelak/mixture-of-recursions-how-recursive-transformers-are-getting-smarter-and-cheaper-5bcd)
 
 ## Citation
 
