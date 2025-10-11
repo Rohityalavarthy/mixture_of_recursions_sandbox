@@ -40,7 +40,7 @@ Why this repo? The official MoR code is powerful but massive—hard to run on lo
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/mixture-of-recursions.git
+git clone https://github.com/Rohityalavarthy/mixture_of_recursions_sandbox.git
 cd mixture-of-recursions
 pip install -r requirements.txt
 
@@ -199,11 +199,11 @@ python tests/test_models.py
 ## Citation
 
 ```bibtex
-@software{mixture_of_recursions_2025,
+@software{mixture_of_recursions_sandbox_2025,
   author = {Rohit Yalavarthy},
-  title = {Mixture of Recursions: Expert-Choice and Token-Choice PyTorch Implementation},
+  title = {Mixture of Recursions: Sandbox},
   year = {2025},
-  url = {https://github.com/yourusername/mixture-of-recursions}
+  url = {https://github.com/Rohityalavarthy/mixture_of_recursions_sandbox.git}
 }
 ```
 
