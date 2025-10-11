@@ -1,8 +1,5 @@
 """
-Mixture of Recursions (MoR) - A Lightweight Implementation
-
-This package provides a clean, modular implementation of the Mixture of Recursions
-architecture for research and experimentation.
+Learn MoR the Easy Way | Lightweight PyTorch implementation of Mixture-of-Recursions with Expert-Choice & Token-Choice routing | Perfect for students, researchers & rapid prototyping | Runs on your laptop!
 """
 
 from .models import SimpleMoRModel, MoRConfig, ExpertChoiceMoRLayer, TokenChoiceMoRLayer
