@@ -32,6 +32,8 @@ Why this repo? The official MoR code is powerful but massive—hard to run on lo
 - **Benefits**: Token-level adaptive computation, direct depth control
 - **Use case**: When tokens have varying complexity requirements
 
+![MoR Architecture](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/44781d28-6612-4bb6-9470-40419c3df791.png)
+
 ## Quick Start
 
 ### Installation & Demo
