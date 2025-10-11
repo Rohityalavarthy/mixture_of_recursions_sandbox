@@ -149,15 +149,6 @@ print(f"Expert-Choice entropy: {expert_stats['mean_entropy']:.4f}")
 print(f"Token-Choice entropy: {token_stats['mean_entropy']:.4f}")
 ```
 
-### Visualization & Comparison
-
-```bash
-# Compare both strategies on pattern task
-python scripts/visualize.py --task pattern --epochs 15
-
-# Compare different configurations
-python scripts/visualize.py --compare
-```
 
 ## Research Applications
 
@@ -178,14 +169,6 @@ python scripts/visualize.py --compare
 - **Both**: Start with `num_recursions=3` and adjust based on task complexity
 - **Memory**: Use smaller `hidden_size` and batch sizes for large models
 
-## Testing
-
-```bash
-# Run all tests
-python -m pytest tests/ -v
-
-# Test both routing strategies
-python tests/test_models.py
 
 ```
 
