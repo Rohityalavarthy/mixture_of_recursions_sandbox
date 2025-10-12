@@ -170,7 +170,6 @@ print(f"Token-Choice entropy: {token_stats['mean_entropy']:.4f}")
 - **Memory**: Use smaller `hidden_size` and batch sizes for large models
 
 
-```
 
 ## Acknowledgments
 
