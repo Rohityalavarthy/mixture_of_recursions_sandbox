@@ -10,7 +10,7 @@
 
 Mixture of Recursions (MoR) is an innovative transformer architecture that dynamically adjusts computational depth per token through learned routing mechanisms. This implementation provides **both Expert-Choice and Token-Choice routing strategies** in a clean, modular framework.
 
-Why this repo? The official MoR code is powerful but massive—hard to run on local machines and tough to read for newcomers. This project distills MoR’s key innovations (dynamic recursion depths, parameter sharing, and adaptive token-level computation) into a clear, minimal package. You can train, visualize, and modify MoR models on your laptop, making it perfect for learning, prototyping, and research.
+The official MoR codebase is powerful but quite large — making it difficult to run locally and challenging to follow for new users. This project simplifies the core ideas behind MoR, the dynamic recursion depths, parameter sharing, and adaptive token-level computation, into a lightweight and accessible package. It’s designed to make experimenting with, visualizing, and extending MoR models easy on standard hardware, making it ideal for learning, prototyping, and research.
 
 ### Key Features
 
